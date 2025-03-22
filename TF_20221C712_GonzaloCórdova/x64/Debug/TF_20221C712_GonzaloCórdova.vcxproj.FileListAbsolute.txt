@@ -1,0 +1,4 @@
+C:\Users\Gonzalo\OneDrive\Escritorio\Enviar progra\TF_20221C712_GonzaloCórdova\TF_20221C712_GonzaloCórdova\x64\Debug\TF_20221C712_GonzaloCórdova.vcxproj.AssemblyReference.cache
+C:\Users\Gonzalo\OneDrive\Escritorio\Enviar progra\TF_20221C712_GonzaloCórdova\TF_20221C712_GonzaloCórdova\x64\Debug\TF_20221C712_GonzaloCórdova.vcxproj.SuggestedBindingRedirects.cache
+E:\cursos\Programacion\Enviar progra\TF_20221C712_GonzaloCórdova sin txt\TF_20221C712_GonzaloCórdova\TF_20221C712_GonzaloCórdova\x64\Debug\TF_20221C712_GonzaloCórdova.vcxproj.AssemblyReference.cache
+E:\cursos\Programacion\Enviar progra\TF_20221C712_GonzaloCórdova sin txt\TF_20221C712_GonzaloCórdova\TF_20221C712_GonzaloCórdova\x64\Debug\TF_20221C712_GonzaloCórdova.vcxproj.SuggestedBindingRedirects.cache
